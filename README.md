@@ -79,3 +79,7 @@ Users customize their preferences (languages, gaming interests, programming topi
 ## 🏗️ Architecture & Engineering Highlights
 
 Fynda is built according to **Domain-Driven Design (DDD)** and **Clean Architecture** patterns:
+
+<p align="center">
+  Developed by Aselens Software
+</p>
